@@ -1,0 +1,8 @@
+#### Jupyter Notebook Checkpoints ####
+.ipynb_checkpoints
+
+#### Model Training Checkpoints ####
+training_checkpoints
+
+#### Dataset ####
+sherlock.txt
