@@ -1,6 +1,7 @@
 # Sherlock Holmes Char-RNN Experiment
 
-Ran an experiment to test the modeling capabilities of various RNN architectures, as well as exploring the effect of different optimizers.
+Ran an experiment to test the modeling capabilities of various RNN architectures, as well as exploring the effect of different optimizers.  
+Dataset: [Complete Sherlock Holmes](https://sherlock-holm.es/stories/plain-text/cnus.txt)
 
 #### Architectures include:  
 Vanilla RNN, LSTM, GRU, Bidirectional
